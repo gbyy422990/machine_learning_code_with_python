@@ -21,6 +21,6 @@
 - [全部代码](/PCA/PCA.ipynb)
 - [算法推导](/PCA/README.md)
 
-## 三、[朴素贝叶斯](/Naive_Bayes)
-- [全部代码](/Naive_Bayes/navieBayes.ipynb)
-- [算法推导](/Naive_Bayes/README.md)
+## 三、[朴素贝叶斯](/Navie_Bayes)
+- [全部代码](/Navie_Bayes/navieBayes.ipynb)
+- [算法推导](/Navie_Bayes/README.md)
