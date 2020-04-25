@@ -22,5 +22,5 @@
 - [算法推导](/PCA/README.md)
 
 ## 三、[朴素贝叶斯](/Naive_Bayes)
-- [全部代码](/Naive_Bayes/naiveBayes.ipynb)
+- [全部代码](/Naive_Bayes/navieBayes.ipynb)
 - [算法推导](/Naive_Bayes/README.md)
