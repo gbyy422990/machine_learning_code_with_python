@@ -18,4 +18,10 @@
 - [算法推导](/Linear_Regression/README.md)
 
 
-wwww
+## 二、[PCA](/PCA)
+- [全部代码](/PCA/PCA.ipynb)
+- [算法推导](/PCA/README.md)
+
+## 三、[朴素贝叶斯](/Naive_Bayes)
+- [全部代码](/Naive_Bayes/naiveBayes.ipynb)
+- [算法推导](/Naive_Bayes/README.md)
