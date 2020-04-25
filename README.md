@@ -13,7 +13,7 @@
     
     
 
-## 一、[线性回归](/LinearRegression)
+## 一、[线性回归](/Linear_Regression)
 - [全部代码](/Linear_Regression/linearRegression.ipynb)
 - [算法推导](/Linear_Regression/README.md)
 
