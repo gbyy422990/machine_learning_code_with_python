@@ -14,7 +14,7 @@
     * [三、朴素贝叶斯](#朴素贝叶斯)
     * [四、SVM](#SVM)
     * [五、KNN](#KNN)
-    * [六、SVM](#KMeans)（TODO）
+    * [六、KMeans](#KMeans)（TODO）
     * [七、决策树](#决策树)（TODO）
     * [八、逻辑回归](#逻辑回归)（TODO）
     * TODO
