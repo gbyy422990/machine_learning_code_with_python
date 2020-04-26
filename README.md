@@ -39,4 +39,4 @@
 
 ## 五、[KNN](/KNN)
 - [全部代码](/KNN/KNN.ipynb)
-- [算法推导](/KNN/README.md)
+- [算法推导](/KNN/README.md)（TODO）
