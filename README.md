@@ -1,7 +1,7 @@
 # Machine_learning_code_with_python
 
-用python来实现机器学习常见的算法，主要参考西瓜熟和统计机器学习这两本书，代码有一些是参考了网上其他
-人的，我都会在里面注释。欢迎大家给个star或者来提pr，也欢迎大家一起交流，微信：630546915（请注明github ML）。
+只使用python来实现机器学习常见的算法（不借助sklearn等包），主要参考西瓜熟和统计机器学习这两本书，代码有一些是参考了网上其他
+人的，我都会在里面注释。欢迎大家给个star或者来提pr，也欢迎大家一起交流。
 
 
 [![MIT license](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/lawlite19/MachineLearning_Python/blob/master/LICENSE)
