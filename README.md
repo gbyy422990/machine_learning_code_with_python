@@ -9,9 +9,9 @@
 
 ## 目录
 * [机器学习算法Python实现](#机器学习算法python实现)
-	* [一、线性回归](#一线性回归)
+	* [一、LinearRegression](#LinearRegression)
 	* [二、PCA](#二PCA)
-    * [三、朴素贝叶斯](#三朴素贝叶斯)
+    * [三、Navie_Bayes](#三朴素贝叶斯)
     * [四、SVM](#四SVM)
     * [五、KNN](#五KNN)
     * [六、KMeans](#六KMeans)（TODO）
@@ -20,7 +20,7 @@
     * TODO
     
 
-## 一、[线性回归](/Linear_Regression)
+## 一、[LinearRegression](/Linear_Regression)
 - [全部代码](/Linear_Regression/linearRegression.ipynb)
 - [算法推导](/Linear_Regression/README.md)  
 ##### 优点：
@@ -50,7 +50,7 @@
 
 
 
-## 三、[朴素贝叶斯](/Navie_Bayes)
+## 三、[Navie_Bayes](/Navie_Bayes)
 - [全部代码](/Navie_Bayes/navieBayes.ipynb)
 - [算法推导](/Navie_Bayes/README.md)
 ##### 优点：
