@@ -9,9 +9,9 @@
 
 ## 目录
 * [机器学习算法Python实现](#机器学习算法python实现)
-	* [一、LinearRegression](#LinearRegression)
+	* [一、LinearRegression](#一LinearRegression)
 	* [二、PCA](#二PCA)
-    * [三、Navie_Bayes](#三朴素贝叶斯)
+    * [三、Navie_Bayes](#三Navie_Bayes)
     * [四、SVM](#四SVM)
     * [五、KNN](#五KNN)
     * [六、KMeans](#六KMeans)（TODO）
