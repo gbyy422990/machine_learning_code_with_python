@@ -17,6 +17,7 @@
     * [六、KMeans](#六KMeans)（TODO）
     * [七、Decision_Tree](#七Decision_Tree)
     * [八、逻辑回归](#八逻辑回归)（TODO）
+    * [九、LDA](#九Linear_Discriminant_Analysis)
     * TODO
     
 
@@ -106,6 +107,16 @@ SVM在很多数据集上都有优秀的表现。相对来说，SVM尽量保持�
 ## 七、[Decision_Tree](/Decision_Tree)
 - [全部代码](/Decision_Tree/decision_Tree.ipynb)
 - [算法推导](/Decision_Tree/README.md)（TODO）
+##### 优点：
+
+     
+##### 缺点：
+
+##### 适用场景：
+
+## 九、[Linear_Discriminant_Analysis](/LDA)
+- [全部代码](/LDA/LDA.ipynb)
+- [算法推导](/LDA/README.md)（TODO）
 ##### 优点：
 
      
