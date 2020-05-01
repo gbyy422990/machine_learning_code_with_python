@@ -15,7 +15,7 @@
     * [四、SVM](#四SVM)
     * [五、KNN](#五KNN)
     * [六、KMeans](#六KMeans)（TODO）
-    * [七、决策树](#七决策树)（TODO）
+    * [七、Decision_Tree](#七Decision_Tree)
     * [八、逻辑回归](#八逻辑回归)（TODO）
     * TODO
     
@@ -101,3 +101,14 @@ SVM在很多数据集上都有优秀的表现。相对来说，SVM尽量保持�
 ##### 适用场景：
 由于KNN训练的代价小(lazy learning不作训练)，KNN或可被用于在线学习(online machine learning)中，即使用新数据不断训练和更新已有模型从而作出更好的预测。
 需要一个特别容易解释的模型的时候，比如需要向用户解释原因的推荐算法。
+
+
+## 七、[Decision_Tree](/Decision_Tree)
+- [全部代码](/Decision_Tree/decision_Tree.ipynb)
+- [算法推导](/Decision_Tree/README.md)（TODO）
+##### 优点：
+
+     
+##### 缺点：
+
+##### 适用场景：
