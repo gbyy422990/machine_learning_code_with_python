@@ -115,8 +115,8 @@ SVM在很多数据集上都有优秀的表现。相对来说，SVM尽量保持�
 ##### 适用场景：
 
 ## 九、[Linear_Discriminant_Analysis](/LDA)
-- [全部代码](/LDA/LDA.ipynb)
-- [算法推导](/LDA/README.md)（TODO）
+- [全部代码](/LDA/LDA.ipynb)（TODO）
+- [算法推导](/LDA/README.md)
 ##### 优点：
 
      
