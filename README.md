@@ -117,7 +117,7 @@ SVM在很多数据集上都有优秀的表现。相对来说，SVM尽量保持�
 
 
 ## 八、[Logistic_Regression](/Logistic_Regression)
-- [全部代码](/Logistic_Regression/logisticRegression.ipynb)
+- [全部代码](/Logistic_Regression/logisticRegression.ipynb)(TODO debug)
 - [算法推导](/Logistic_Regression/README.md)（TODO）
 ##### 优点：
 
