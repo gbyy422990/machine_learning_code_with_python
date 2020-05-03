@@ -16,7 +16,7 @@
     * [五、KNN](#五KNN)
     * [六、KMeans](#六KMeans)（TODO）
     * [七、Decision_Tree](#七Decision_Tree)
-    * [八、逻辑回归](#八逻辑回归)（TODO）
+    * [八、Logistic_Regression](#八Logistic_Regression)
     * [九、LDA](#九Linear_Discriminant_Analysis)
     * TODO
     
@@ -113,6 +113,19 @@ SVM在很多数据集上都有优秀的表现。相对来说，SVM尽量保持�
 ##### 缺点：
 
 ##### 适用场景：
+
+
+
+## 八、[Logistic_Regression](/Logistic_Regression)
+- [全部代码](/Logistic_Regression/logisticRegression.ipynb)
+- [算法推导](/Logistic_Regression/README.md)（TODO）
+##### 优点：
+
+     
+##### 缺点：
+
+##### 适用场景：
+
 
 ## 九、[Linear_Discriminant_Analysis](/LDA)
 - [全部代码](/LDA/LDA.ipynb)（TODO）
