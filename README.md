@@ -14,7 +14,7 @@
     * [三、Navie_Bayes](#三Navie_Bayes)
     * [四、SVM](#四SVM)
     * [五、KNN](#五KNN)
-    * [六、KMeans](#六KMeans)（TODO）
+    * [六、KMeans](#六KMeans)
     * [七、Decision_Tree](#七Decision_Tree)
     * [八、Logistic_Regression](#八Logistic_Regression)
     * [九、LDA](#九Linear_Discriminant_Analysis)
@@ -102,6 +102,23 @@ SVM在很多数据集上都有优秀的表现。相对来说，SVM尽量保持�
 ##### 适用场景：
 由于KNN训练的代价小(lazy learning不作训练)，KNN或可被用于在线学习(online machine learning)中，即使用新数据不断训练和更新已有模型从而作出更好的预测。
 需要一个特别容易解释的模型的时候，比如需要向用户解释原因的推荐算法。
+
+
+## 六、[KMeans](/KMeans)
+- [全部代码](/KMeans/KMeans.ipynb)
+- [算法推导](/KMeans/README.md)（TODO）
+##### 优点：
+1、算法简单，速度快；  
+     
+##### 缺点：
+1、最终结果和初始点的选择有关，容易陷入局部最优。于是有人提出了两种方法，一种是K-means++，一种是二分K-means算法来尽量使K-means达到全局最优；  
+2、需要知道K的值
+ 
+
+##### 适用场景：
+1、提前已经知道K的值的时候。如果当我们不知道样本集将要聚成多少个类别的时候，那么这时候不适合用kmeans算法，推荐使用其他方法来聚类，如（hierarchical 或meanshift）；   
+2、一般的聚类场景（例如对用户进行分群组等）外，我们还可以用KMeans实现单变量的离散化，因为一般的等频和等距的离散化方法往往会忽略变量中潜在的分布特征，而基于聚类的离散化可以一定程度地保留变量的分布特征；  
+
 
 
 ## 七、[Decision_Tree](/Decision_Tree)
