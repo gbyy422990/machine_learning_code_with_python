@@ -140,8 +140,8 @@ SVM在很多数据集上都有优秀的表现。相对来说，SVM尽量保持�
 
 
 ## 八、[Logistic_Regression](/Logistic_Regression)
-- [全部代码](/Logistic_Regression/logisticRegression.ipynb)(TODO debug)
-- [算法推导](/Logistic_Regression/README.md)（TODO）
+- [全部代码](/Logistic_Regression/logisticRegression.ipynb)
+- [算法推导](/Logistic_Regression/README.md)（TODO）  
 回归方法的核心就是为函数找到最合适的参数，使得函数的值和样本的值最接近。例如线性回归(Linear regression)就是对于函数f(x)=ax+b，找到最合适的a,b。
 LR拟合的就不是线性函数了，它拟合的是一个概率学中的函数，f(x)的值这时候就反映了样本属于这个类的概率。
 ##### 优点：
