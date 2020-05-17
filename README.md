@@ -18,7 +18,7 @@
     * [七、Decision_Tree](#七Decision_Tree)
     * [八、Logistic_Regression](#八Logistic_Regression)
     * [九、LDA](#九Linear_Discriminant_Analysis)
-    * TODO
+    * [十、EM](#EM)
     
 
 ## 一、[Linear_Regression](/Linear_Regression)
@@ -173,3 +173,14 @@ LR同样是很多分类算法的基础组件，它的好处是输出值自然地
 ##### 适用场景：
 判别分析适用于高维数据需要降维的情况，自带降维功能使得我们能方便地观察样本分布。它的正确性有数学公式可以证明，所以同样是很经得住推敲的方式。但是它的分类准确率往往不是很高，
 所以不是统计系的人就把它作为降维工具用吧。同时注意它是假定样本成正态分布的，所以那种同心圆形的数据就不要尝试了。
+
+
+## 九、[EM](/EM)
+- [全部代码](/EM/EM.ipynb)（TODO）
+- [算法推导](/EM/README.md)
+##### 优点：
+
+     
+##### 缺点：
+
+##### 适用场景：
