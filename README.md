@@ -18,7 +18,7 @@
     * [七、Decision_Tree](#七Decision_Tree)
     * [八、Logistic_Regression](#八Logistic_Regression)
     * [九、LDA](#九Linear_Discriminant_Analysis)
-    * [十、EM](#EM)
+    * [十、EM](#十EM)
     
 
 ## 一、[Linear_Regression](/Linear_Regression)
